@@ -1,0 +1,5 @@
+*.o
+src/gui/Makefile
+
+src/gui/sleet
+precipitate
